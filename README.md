@@ -94,15 +94,9 @@
 <div>
 <summary><img height="20" alt="GIF" src="https://github.com/larif5/larissafonseca/blob/main/img/spotify.gif?raw=true"/> LariF5's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/card?user_id=larif5">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=larif5" alt="Data Card for Spotify">
 </div>
 <div>
 
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=2PpgWTHBUfRrElGhae0MuQ&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
-</div>
-<div>
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
 
