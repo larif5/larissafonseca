@@ -51,7 +51,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/larif5/larissafonseca/blob/main/img/dev2.gifraw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/larif5/larissafonseca/blob/main/img/dev2.gif?raw=true" width="340px" height="520px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/larif5/larissafonseca/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -79,7 +79,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/larif5/larissafonseca/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larissafonseca&theme=github_dark"/>
